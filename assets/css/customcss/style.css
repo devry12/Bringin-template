@@ -1,0 +1,69 @@
+.intro-2 {
+    background: url("https://images.pexels.com/photos/51947/tuscany-grape-field-nature-51947.jpeg?w=940&h=650&auto=compress&cs=tinysrgb")no-repeat center center;
+    background-size: cover;
+}
+
+.top-nav-collapse {
+    background-color: #5E9270 !important;
+}
+
+.navbar:not(.top-nav-collapse) {
+    background: transparent !important;
+}
+
+@media (max-width: 768px) {
+    .navbar:not(.top-nav-collapse) {
+        background: #5E9270 !important;
+    }
+}
+
+.hm-gradient .full-bg-img {
+    background: -webkit-linear-gradient(45deg, rgba(0, 0, 0, 0.7), rgba(64,224,208, 0.4) 100%);
+    background: -webkit-gradient(linear, 45deg, from(rgba(0, 0, 0, 0.7), rgba(64,224,208, 0.4) 100%)));
+    background: linear-gradient(to 45deg, rgba(0, 0, 0, 0.7), rgba(64,224,208, 0.4) 100%);
+}
+
+.card {
+    background-color: rgba(64,224,208, 0.2);
+}
+
+.md-form .prefix {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
+
+.md-form label {
+    color: #ffffff;
+}
+
+h6 {
+    line-height: 1.7;
+}
+
+@media (max-width: 740px) {
+    .full-height,
+    .full-height body,
+    .full-height header,
+    .full-height header .view {
+        height: 1040px;
+    }
+}
+
+.jarakkiri{
+  margin-left: 10px;
+}
+
+.logo{
+  width: 50px;
+}
+.rounded-circle{
+  width: 200px;
+}
+
+.card-color{
+  background-color: #5E9270;
+}
+
+.jarakatas{
+  margin-top: 10px;
+}
