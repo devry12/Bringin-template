@@ -4,16 +4,16 @@
 }
 
 .top-nav-collapse {
-    background-color: #5E9270 !important;
+    background-color: #36D7B7 !important;
 }
 
-.navbar:not(.top-nav-collapse) {
+.navbar2:not(.top-nav-collapse) {
     background: transparent !important;
 }
 
 @media (max-width: 768px) {
-    .navbar:not(.top-nav-collapse) {
-        background: #5E9270 !important;
+    .navbar2:not(.top-nav-collapse) {
+        background: #36D7B7 !important;
     }
 }
 
@@ -24,7 +24,7 @@
 }
 
 .card {
-    background-color: rgba(64,224,208, 0.2);
+    background-color: rgba(54, 215, 183, 0.2);
 }
 
 .md-form .prefix {
@@ -53,6 +53,8 @@ h6 {
   margin-left: 10px;
 }
 
+
+
 .logo{
   width: 50px;
 }
@@ -61,9 +63,27 @@ h6 {
 }
 
 .card-color{
-  background-color: #5E9270;
+  background-color: #36D7B7;
 }
 
 .jarakatas{
   margin-top: 10px;
+}
+
+.jarakatas2{
+  margin-top: 40px;
+}
+
+.form-custom{
+  margin-left: 25%;
+  width: 53%;
+  margin-top: 10%;
+  background-color: white;
+  -webkit-box-shadow: -1px 1px 18px 0px rgba(0,0,0,0.56);
+  -moz-box-shadow: -1px 1px 18px 0px rgba(0,0,0,0.56);
+  box-shadow: -1px 1px 18px 0px rgba(0,0,0,0.56);
+}
+
+.Body-color{
+  background: #36D7B7;
 }

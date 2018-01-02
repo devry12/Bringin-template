@@ -19,7 +19,7 @@
  *
  * Support: https://mdbootstrap.com/support/
  *
- * Contact: office@mdbootstrap.com 
+ * Contact: office@mdbootstrap.com
  *
  * Atribution: Animate CSS, Twitter Bootstrap, Materialize CSS, Normalize CSS, Waves JS, WOW JS, Toastr, Chart.js , Hammer.js
  *
@@ -943,10 +943,10 @@
   background-color: #00695c !important; }
 
 .primary-color {
-  background-color: #4285F4 !important; }
+  background-color: #36D7B7 !important; }
 
 .primary-color-dark {
-  background-color: #0d47a1 !important; }
+  background-color: #36D7B7 !important; }
 
 .secondary-color {
   background-color: #aa66cc !important; }
@@ -5173,24 +5173,23 @@ button:focus {
     box-shadow: none; }
 
 .btn-primary {
-  background-color: #4285F4; }
+  background-color: #36D7B7; }
   .btn-primary:hover {
-    background-color: #5a95f5 !important; }
+    background-color: #36D7B7 !important; }
   .btn-primary:focus, .btn-primary:active, .btn-primary.active {
-    background-color: #0d5bdd !important; }
+    background-color: #36D7B7 !important; }
   .btn-primary.dropdown-toggle {
-    background-color: #4285F4 !important; }
+    background-color: #36D7B7 !important; }
     .btn-primary.dropdown-toggle:hover, .btn-primary.dropdown-toggle:focus {
-      background-color: #5a95f5 !important; }
+      background-color: #36D7B7 !important; }
 
 .btn-outline-primary {
-  border: 2px solid #4285F4;
-  color: #4285F4 !important;
+  border: 2px solid #36D7B7;
+  color: #f2f2f2 !important;
   background-color: transparent; }
   .btn-outline-primary:hover, .btn-outline-primary:focus, .btn-outline-primary:active, .btn-outline-primary:active:focus, .btn-outline-primary.active {
     background-color: transparent;
-    color: #4285F4;
-    border-color: #4285F4; }
+    border-color: #36D7B7; }
 
 .btn-danger {
   background-color: #ff3547; }
@@ -6933,11 +6932,11 @@ body.scrollable {
 
 /*!
  * Waves v0.7.5
- * http://fian.my.id/Waves 
- * 
- * Copyright 2014-2016 Alfiana E. Sibuea and other contributors 
- * Released under the MIT license 
- * https://github.com/fians/Waves/blob/master/LICENSE 
+ * http://fian.my.id/Waves
+ *
+ * Copyright 2014-2016 Alfiana E. Sibuea and other contributors
+ * Released under the MIT license
+ * https://github.com/fians/Waves/blob/master/LICENSE
  */
 .waves-effect {
   position: relative;
